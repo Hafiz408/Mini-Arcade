@@ -1,0 +1,11 @@
+python
+wizard
+magnet
+hockey
+brainy
+backup
+friend
+bronze
+goblin
+prince
+
